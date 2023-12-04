@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "username": "Kuba",
+      "password": "Kuba",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Пицца"
+    },
+    {
+      "id": 2,
+      "category": "Бургер"
+    },
+    {
+      "id": 3,
+      "category": "Блюда"
+    },
+    {
+      "id": 4,
+      "category": "Роллы"
+    },
+    {
+      "id": 5,
+      "category": "Салаты"
+    },
+    {
+      "id": 6,
+      "category": "Десерты"
+    },
+    {
+      "id": 7,
+      "category": "Напитки"
+    },
+    {
+      "id": 8,
+      "category": "Сеты"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Detskaia_40sm/Medium.png?hash=dbcff2d37ab8ce18b4c3c011ad23f971",
+      "name": "Детская",
+      "title": "Пицца Детская. Пицца-соус, сыр моцарелла, сосиски, помидоры, кукуруза.",
+      "price": "690 сом",
+      "category": "Пицца"
+    },
+    {
+      "id": 2,
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Margarita_40sm/Medium.png?hash=952c6e8d7c96b9496109d569b06518da",
+      "name": "Маргарита",
+      "title": "Пицца Маргарита. Пицца-соус, сыр моцарелла, орегано, помидоры, базилик.",
+      "price": "440 сом",
+      "category": "Пицца"
+    },
+    {
+      "id": 3,
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v45/Pitstsa_40sm/4_Syira_40sm/Medium.png?hash=f530c2fc1726d73286f6656fd56d59ae",
+      "name": "4 сыра",
+      "title": "Пицца 4 сыра. Пицца-соус, сыры: моцарелла, эмменталь, дорблю, пармезан.",
+      "price": "800 сом",
+      "category": "Пицца"
+    },
+    {
+      "id": 4,
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Pitstsa_40sm/Barbekiu_40sm/Medium.png?hash=3b4522fe32379bc2ad5e9649e2faa199",
+      "name": "Барбекю",
+      "title": "Пицца Барбекю Сытная домашняя пицца с соусом барбекю, куриным филе, колбасками.",
+      "price": "780 сом",
+      "category": "Пицца"
+    },
+    {
+      "id": 5,
+      "image": "https://static.vecteezy.com/system/resources/previews/023/522/925/original/beef-burger-cutout-free-png.png",
+      "name": "Чизбургер",
+      "title": "бекон, горчица, жгучий томатный соус и сливочный хрен на ржаной булочке.",
+      "price": "140 сом",
+      "category": "Бургер"
+    },
+    {
+      "id": 6,
+      "image": "https://imgpng.ru/d/burger_sandwich_PNG4115.png",
+      "name": "Двойной Гигабургер",
+      "title": "Внутри целых два бифштекса из 100%-й говядины, ароматный бекон, горчица, сливочный хрен,",
+      "price": "220 сом",
+      "category": "Бургер"
+    },
+
+    {
+      "id": 7,
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Detskaia_40sm/Medium.png?hash=dbcff2d37ab8ce18b4c3c011ad23f971",
+      "name": "Детская",
+      "title": "Пицца Детская. Пицца-соус, сыр моцарелла, сосиски, помидоры, кукуруза.",
+      "price": "690 сом",
+      "category": "Пицца"
+    },
+
+    {
+      "id": 8,
+      "image": "https://pngicon.ru/file/uploads/chizburger.png",
+      "name": "Кривбургер",
+      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
+      "price": "180 сом",
+      "category": "Бургер"
+    },
+    {
+      "id": 9,
+      "image": "https://pngicon.ru/file/uploads/chizburger.png",
+      "name": "Кривбургер",
+      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
+      "price": "180 сом",
+      "category": "Бургер"
+    },
+    {
+      "id": 10,
+      "image": "https://pngicon.ru/file/uploads/chizburger.png",
+      "name": "Кривбургер",
+      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
+      "price": "180 сом",
+      "category": "Бургер"
+    },
+    {
+      "id": 11,
+      "image": "https://pngicon.ru/file/uploads/chizburger.png",
+      "name": "Кривбургер",
+      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
+      "price": "180 сом",
+      "category": "Десерты"
+    }
+  ]
+}
