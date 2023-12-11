@@ -42,94 +42,548 @@
   ],
   "products": [
     {
-      "id": 1,
-      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Detskaia_40sm/Medium.png?hash=dbcff2d37ab8ce18b4c3c011ad23f971",
-      "name": "Детская",
-      "title": "Пицца Детская. Пицца-соус, сыр моцарелла, сосиски, помидоры, кукуруза.",
-      "price": "690 сом",
-      "category": "Пицца"
-    },
-    {
-      "id": 2,
-      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Margarita_40sm/Medium.png?hash=952c6e8d7c96b9496109d569b06518da",
-      "name": "Маргарита",
-      "title": "Пицца Маргарита. Пицца-соус, сыр моцарелла, орегано, помидоры, базилик.",
-      "price": "440 сом",
-      "category": "Пицца"
-    },
-    {
-      "id": 3,
-      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v45/Pitstsa_40sm/4_Syira_40sm/Medium.png?hash=f530c2fc1726d73286f6656fd56d59ae",
+      "category": "Пицца",
       "name": "4 сыра",
       "title": "Пицца 4 сыра. Пицца-соус, сыры: моцарелла, эмменталь, дорблю, пармезан.",
       "price": "800 сом",
-      "category": "Пицца"
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v45/Pitstsa_40sm/4_Syira_40sm/Medium.png?hash=f530c2fc1726d73286f6656fd56d59ae",
+      "id": 1
     },
     {
-      "id": 4,
-      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Pitstsa_40sm/Barbekiu_40sm/Medium.png?hash=3b4522fe32379bc2ad5e9649e2faa199",
+      "category": "Пицца",
       "name": "Барбекю",
       "title": "Пицца Барбекю Сытная домашняя пицца с соусом барбекю, куриным филе, колбасками.",
       "price": "780 сом",
-      "category": "Пицца"
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Pitstsa_40sm/Barbekiu_40sm/Medium.png?hash=3b4522fe32379bc2ad5e9649e2faa199",
+      "id": 2
     },
     {
-      "id": 5,
-      "image": "https://static.vecteezy.com/system/resources/previews/023/522/925/original/beef-burger-cutout-free-png.png",
-      "name": "Чизбургер",
-      "title": "бекон, горчица, жгучий томатный соус и сливочный хрен на ржаной булочке.",
-      "price": "140 сом",
-      "category": "Бургер"
-    },
-    {
-      "id": 6,
-      "image": "https://imgpng.ru/d/burger_sandwich_PNG4115.png",
-      "name": "Двойной Гигабургер",
-      "title": "Внутри целых два бифштекса из 100%-й говядины, ароматный бекон, горчица, сливочный хрен,",
-      "price": "220 сом",
-      "category": "Бургер"
-    },
-
-    {
-      "id": 7,
-      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Detskaia_40sm/Medium.png?hash=dbcff2d37ab8ce18b4c3c011ad23f971",
+      "category": "Пицца",
       "name": "Детская",
       "title": "Пицца Детская. Пицца-соус, сыр моцарелла, сосиски, помидоры, кукуруза.",
       "price": "690 сом",
-      "category": "Пицца"
-    },
-
-    {
-      "id": 8,
-      "image": "https://pngicon.ru/file/uploads/chizburger.png",
-      "name": "Кривбургер",
-      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
-      "price": "180 сом",
-      "category": "Бургер"
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Detskaia_40sm/Medium.png?hash=dbcff2d37ab8ce18b4c3c011ad23f971",
+      "id": 3
     },
     {
-      "id": 9,
-      "image": "https://pngicon.ru/file/uploads/chizburger.png",
-      "name": "Кривбургер",
-      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
-      "price": "180 сом",
-      "category": "Бургер"
+      "category": "Пицца",
+      "name": "Маргарита",
+      "title": "Пицца Маргарита. Пицца-соус, сыр моцарелла, орегано, помидоры, базилик.",
+      "price": "440 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Margarita_40sm/Medium.png?hash=952c6e8d7c96b9496109d569b06518da",
+      "id": 4
     },
     {
-      "id": 10,
-      "image": "https://pngicon.ru/file/uploads/chizburger.png",
-      "name": "Кривбургер",
-      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
-      "price": "180 сом",
-      "category": "Бургер"
+      "category": "Пицца",
+      "name": "Пепперони",
+      "title": "Пицца Пепперони. Пицца-соус, сыр моцарелла, салями, шампиньоны.",
+      "price": "620 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Pepperoni_40sm/Medium.png?hash=92b4aab174ef2fc4e7cb6693e9491501",
+      "id": 5
     },
     {
-      "id": 11,
-      "image": "https://pngicon.ru/file/uploads/chizburger.png",
+      "category": "Пицца",
+      "name": "Обжорка",
+      "title": "Пицца Обжорка. Пицца-соус, говяжий фарш, сыр моцарелла, помидоры, майонез, кетчуп.",
+      "price": "1000 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Obzhorka_40sm/Medium.png?hash=0fb89dbac3094a820b817af8321d8937",
+      "id": 6
+    },
+    {
+      "category": "Пицца",
+      "name": "Охотничья",
+      "title": "Пицца Охотничья. Пицца-соус, сыр моцарелла, куриная грудка, копчёная курица.",
+      "price": "900 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v19/Pitstsa_40sm/Okhotnichia_40sm/Medium.png?hash=995d8e4e0f470638558020ab5996f3b0",
+      "id": 7
+    },
+    {
+      "category": "Пицца",
+      "name": "Фрикасе",
+      "title": "Пицца Фрикасе. Куриная грудка, грибы Вешенки, кукуруза, сливочный соус, зелень.",
+      "price": "780 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Frikase_40sm/Medium.png?hash=e8771936a83f2e2a14086ad86d22a3ef",
+      "id": 8
+    },
+    {
+      "category": "Бургер",
+      "name": "Чизбургер",
+      "title": "бекон, горчица, жгучий томатный соус и сливочный хрен на ржаной булочке.",
+      "price": "140 сом",
+      "image": "https://static.vecteezy.com/system/resources/previews/023/522/925/original/beef-burger-cutout-free-png.png",
+      "id": 9
+    },
+    {
+      "category": "Бургер",
+      "name": "Двойной Гигабургер",
+      "title": "Внутри целых два бифштекса из 100%-й говядины, ароматный бекон, горчица, сливочный хрен.",
+      "price": "220 сом",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/022/911/694/small/cute-cartoon-burger-icon-free-png.png",
+      "id": 10
+    },
+    {
+      "category": "Бургер",
+      "name": "Гамбургер с кур",
+      "title": "котлета из курицы, майонез для салата, салат Айсберг, томаты, огурцы маринованные.",
+      "price": "160 сом",
+      "image": "https://pngimg.com/uploads/burger_sandwich/burger_sandwich_PNG4157.png",
+      "id": 11
+    },
+    {
+      "category": "Бургер",
+      "name": "Крабсбургер",
+      "title": "Внутри свежие помидоры, салат Айсберг, лук, маринованные огурчики, ломтики сыра.",
+      "price": "260 сом",
+      "image": "https://static.vecteezy.com/system/resources/previews/022/972/592/original/tasty-fresh-burger-png.png",
+      "id": 12
+    },
+    {
+      "category": "Бургер",
       "name": "Кривбургер",
-      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый,",
+      "title": "котлета из говядины, майонез для салата, салат Айсберг, огурцы маринованные, лук репчатый.",
       "price": "180 сом",
-      "category": "Десерты"
+      "image": "https://pngicon.ru/file/uploads/chizburger.png",
+      "id": 13
+    },
+    {
+      "category": "Бургер",
+      "name": "Гамбургер",
+      "title": "говядины с хрустящим маринованным огурчиком, рубленым луком, горчицей и кетчупом.",
+      "price": "120 сом",
+      "image": "https://abrakadabra.fun/uploads/posts/2022-02/1643701106_6-abrakadabra-fun-p-burger-bez-fona-15.png",
+      "id": 14
+    },
+    {
+      "category": "Бургер",
+      "name": "Апаллон",
+      "title": "со жгучим соусом вместо кетчупа! Приготовленный на огне бифштекс из 100%-й говядины под острым томатным соусом.",
+      "price": "210 сом",
+      "image": "https://www.pngmart.com/files/16/Double-Cheese-Burger-PNG-Transparent-Image.png",
+      "id": 15
+    },
+    {
+      "category": "Бургер",
+      "name": "Offburger",
+      "title": "Бургер без мяса, Салат, сыр, булка, низкокалорийная еда любовь веганов",
+      "price": "80 сом",
+      "image": "https://imgpng.ru/d/burger_sandwich_PNG4115.png",
+      "id": 16
+    },
+    {
+      "category": "Блюда",
+      "name": "Вареники ",
+      "title": "Вареники с картошкой по-украински. Мука, картофель, лук, сметана.",
+      "price": "160 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Goriachie_bliuda/Vareniki_s_kartoshkoi_po-ukrainski/Medium.png?hash=4119aed42f58e029ac9d5d00739452e9",
+      "id": 17
+    },
+    {
+      "category": "Блюда",
+      "name": "Гёдза с говядиной",
+      "title": "Гёдза жареные с говядиной Подаётся с чесночно-соевым соусом",
+      "price": "220 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Goriachie_bliuda/Gdza_zharenyie_s_goviadinoi/Medium.png?hash=12d2c1d531f2da7caadaa4e44f16d1cc",
+      "id": 19
+    },
+    {
+      "category": "Блюда",
+      "name": "Жаренные Манты",
+      "title": "Жареные манты с мясом. Мука, яйцо, масло, говядина, лук, соль, масло растительное.",
+      "price": "290 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Goriachie_bliuda/Zharenyie_mantyi_s_miasom_portsiia_5sht/Medium.png?hash=8d9679f38e6e439c78807c3598caab5a",
+      "id": 20
+    },
+    {
+      "category": "Блюда",
+      "name": "Оромо",
+      "title": "Оромо Традиционное блюдо Восточной кухни. Рулет из тонкого теста с мясной начинкой и картофелем.",
+      "price": "300 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Goriachie_bliuda/Oromo/Medium.png?hash=2369a3d76bf271ffc752a77d175ae853",
+      "id": 21
+    },
+    {
+      "category": "Блюда",
+      "name": "Суп Том Ям",
+      "title": "Том-Ям суп. Острый суп по-тайски. Куриный бульон, помидоры, грибы-вёшенки, креветки.",
+      "price": "400 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Supyi/Ostryii_Sup_Tom_Iam/Medium.png?hash=6a4808431601092cd9ad9e440bf11cd2",
+      "id": 22
+    },
+    {
+      "category": "Блюда",
+      "name": "Жаровня с мясом",
+      "title": "Ароматные и сочные кусочки говядины с овощами (болгарский перец, лук, чеснок) и свежими помидорами.",
+      "price": "340 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v39/Goriachie_bliuda/Zharovnia_s_miasom/Medium.png?hash=994367e76ecf170b0815453b37e11f46",
+      "id": 23
+    },
+    {
+      "category": "Блюда",
+      "name": "Домашние котлеты",
+      "title": "Курица, жир конины, специи. Подается с рисом.",
+      "price": "200 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v39/Goriachie_bliuda/Domashnie_kotletyi_s_gribnyim_sousom/Medium.png?hash=eaa30950c220cfbc8c0671b03eee6239",
+      "id": 24
+    },
+    {
+      "category": "Блюда",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Supyi/Shorpo_iz_goviadinyi/Medium.png?hash=97832dfbba06e92bed61caade6dcb232",
+      "name": "Шорпо из говядины",
+      "title": "Шорпо из говядины. Мясной бульон с добавлением картофеля, мяса, посыпанный зеленью.",
+      "price": "290 сом",
+      "id": 25
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Rollyi/Aliaska_roll/Medium.png?hash=1e335a39027a5d74d604a87e1b22a337",
+      "name": "Аляска-Ролл",
+      "title": "Аляска 180 гр. Копченый лосось, крим-чиз, кунжут, огурец, без васаби",
+      "price": "400 сом",
+      "id": 26
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Rollyi/Goma_roll/Medium.png?hash=6b085d22f5cce622602134cbad5b0016",
+      "name": "Гома-Ролл",
+      "title": "Куриная грудка, помидор, лук зеленый, соус кунжутный, кунжут, без имбиря",
+      "price": "220 сом",
+      "id": 27
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Rollyi/Goriachii_Roll_s_Lososem/Medium.png?hash=c6fe3b89b2c765d7d8b36ade6fa76d32",
+      "name": "Ролл с Лососем",
+      "title": "Горячий ролл с лососем 200 гр. Рис, лосось, крабовые палочки, огурец, крим-чиз",
+      "price": "500 сом",
+      "id": 28
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Rollyi/Goriachii_roll_Tori_Svit_Chili/Medium.png?hash=96e9b90bdbf79b69696a44b7be1d41b7",
+      "name": "Ролл Тори Свит Чили",
+      "title": "Куриная грудка, помидоры, соус свитчили, огурцы, без васаби и имбиря",
+      "price": "270 сом",
+      "id": 29
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Rollyi/Goriachii_roll_Tori_teriiaki/Medium.png?hash=d7f30df67f398ea264b53cb5526c7fd1",
+      "name": "Ролл Тори терияки",
+      "title": "Горячий ролл Чикен терияки 175 гр Куриная грудка, соус Терияки, огурец, зеленый лук, ",
+      "price": "240 сом",
+      "id": 30
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Rollyi/Kaliforniia_roll/Medium.png?hash=4ba7e0bf99d15216b52a5582e582f9da",
+      "name": "Калифорния Ролл",
+      "title": "Калифорния 170 гр. Крабовые палочки, тобико, майонез, огурец, омлет",
+      "price": "300 сом",
+      "id": 31
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Rollyi/Kasumi_roll/Medium.png?hash=d0cd623007e8a496972451d15181c82b",
+      "name": "Касуми Ролл",
+      "title": "Хрустящая кожа лосося, крабовые палочки, стружка, тунца, майонез, без васаби",
+      "price": "300 сом",
+      "id": 32
+    },
+    {
+      "category": "Роллы",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Rollyi/Kombu_roll/Medium.png?hash=5cdc6ca88604547d944eb8996b5c38af",
+      "name": "Комбу Ролл",
+      "title": "Крем-чиз, крабовые палочки, огурец, стружка нори, без васаби и имбиря",
+      "price": "200 сом",
+      "id": 33
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v54/Salatyi/Avtorskii_salat_s_tofu_i_kimchi/Medium.png?hash=758f8aecef48016cb935e2bc37334c28",
+      "name": "Салат с тофу и кимчи",
+      "title": "Сочетание вкусов нежного жареного тофу и корейского кимчи со сладким чили соусом.",
+      "price": "150 сом",
+      "id": 34
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Salatyi/Vinegret/Medium.png?hash=144e367988917698b5131023eb82632d",
+      "name": "Винегрет",
+      "title": "Винегрет Свекла, огурцы маринованные, картофель, квашенная капуста, морковь.",
+      "price": "200 сом",
+      "id": 35
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Salatyi/Grecheskii_salat/Medium.png?hash=3a42a135052a11d0f020484b66d2c982",
+      "name": "Греческий Салат",
+      "title": "Греческий салат. Помидоры, болгарский перец, огурцы, сыр фетаки, микс из листьев салата, ",
+      "price": "160 сом",
+      "id": 36
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v54/Salatyi/Zelenyii_salat_s_avokado/Medium.png?hash=fbe15783dcc0195c12c1c84d770efe83",
+      "name": "Салат с Авакадо",
+      "title": "Нежный микс из шпината, авокадо с карамелизированным орехом. Заправлен кунжутным соусом.",
+      "price": "280 сом",
+      "id": 37
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v63/Salatyi/Morkov_po-koreiski/Medium.png?hash=7d79060236a1927fc4572cfe19f941e2",
+      "name": "Морковь по-корейски",
+      "title": "МОРКОВНЫЙ САЛАТ ПО-КОРЕЙСКИ болгарский перец, *Острота по желанию",
+      "price": "240 сом",
+      "id": 38
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Salatyi/Salat_s_rostkami_bambuka/Medium.png?hash=751dd140d091c82e109f99533210fa64",
+      "name": "Ростки Бамбука",
+      "title": "Говядина отварная, болгарский перец, помидоры, огурцы, ростки бамбука, лук, зелень кинзы.",
+      "price": "390 сом",
+      "id": 39
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v54/Salatyi/Teplyii_salat_iz_brokkoli_v_kunzhut_souse/Medium.png?hash=ab59e8ea9f1a743f15cae5061d75e332",
+      "name": "Салат из Брокколи",
+      "title": "В соусе Кунжута, болгарский перец, очищенный салат из Брокколи",
+      "price": "200 сом",
+      "id": 40
+    },
+    {
+      "category": "Салаты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Salatyi/Funcheza/Medium.png?hash=95d94a29e49087933eaa945382be7d13",
+      "name": "Фунчеза",
+      "title": "Говядина, перец полугорький, чеснок, фунчеза, сельдерей, морковь, лук зеленый, кинза.",
+      "price": "370 сом",
+      "id": 41
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Desertyi/Morozhenoe_Klubnichnoe_3_sharika/Medium.png?hash=6a39d6227059d8e7eae417e0a01ffe57",
+      "name": "Мороженное Клубничное  (3 шарик)",
+      "title": "Фирменное мороженое (3 шарика)",
+      "price": "200 сом",
+      "id": 42
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Desertyi/Morozhenoe_Klubnichnoe_1_sharik/Medium.png?hash=5a96e208229ac09fc89b1cf0e45a4fff",
+      "name": "Мороженное Клубничное  (1 шарик)",
+      "title": "Фирменное мороженое (1 шарика)",
+      "price": "200 сом",
+      "id": 43
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v21/Desertyi/Morozhenoe_Vanilnoe_so_struzhkoi_1sharik/Medium.png?hash=d398e0eaec4591ffb4adc33239eae97e",
+      "name": "Мороженное Ванильное (1 шарик)",
+      "title": "Фирменное мороженое (1 шарика)",
+      "price": "200 сом",
+      "id": 44
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Desertyi/Morozhenoe_Vanilnoe_so_struzhkoi_3sharika/Medium.png?hash=82b45d65f978e65396cdc1cdcda11212",
+      "name": "Мороженное Ванильное (3 шарик)",
+      "title": "Фирменное мороженое (3 шарика)",
+      "price": "200 сом",
+      "id": 45
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Desertyi/Morozhenoe_Vanilnoe_3_sharika/Medium.png?hash=9b8a5bf5450ea4f1409a49d4dba9110c",
+      "name": "Мороженое Молочная (3 шарика)",
+      "title": "Фирменное мороженое (3 шарика)",
+      "price": "200 сом",
+      "id": 46
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Desertyi/Morozhenoe_Vanilnoe_1_sharik/Medium.png?hash=14b0fff5cfd1e3de6f1a472d05362b6c",
+      "name": "Мороженое Молочная (1 шарика)",
+      "title": "Фирменное мороженое (1 шарика)",
+      "price": "200 сом",
+      "id": 47
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Desertyi/Morozhenoe_Shokoladnoe_1_sharik/Medium.png?hash=a9bc74fac083ab019b64f08909b20e10",
+      "name": "Мороженое Шоколадное (1 шарика)",
+      "title": "Фирменное мороженое (1 шарика)",
+      "price": "200 сом",
+      "id": 48
+    },
+    {
+      "category": "Десерты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Desertyi/Morozhenoe_Shokoladnoe_3_sharika/Medium.png?hash=cc2439c7b670541dc9b83a2e79be626b",
+      "name": "Мороженое Шоколадное (3 шарика)",
+      "title": "Фирменное мороженое (3 шарика)",
+      "price": "200 сом",
+      "id": 49
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Bezalkogolnyie_kokteili/Mokhito_Bliu_bezalkogolnyii/Medium.png?hash=a88c5b219579e5f4b64dd8fe2c6286f2",
+      "name": "Мохито Блю",
+      "title": "Спрайт, сироп Блю Курасао, лайм, пепси, хол.лед, свежая мята, мин.вода",
+      "price": "170 сом",
+      "id": 50
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v46/Bezalkogolnyie_kokteili/OREO/Medium.png?hash=6ac848df19f3e0952d53facbb63ab72e",
+      "name": "OREO",
+      "title": "Морожное сливочное, молоко, печенье OREO, взбитые сливки, шоколад Фондю.",
+      "price": "180 сом",
+      "id": 51
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v65/Alkogolsuz_suusunduktar/Ais_Matcha-Latte/Medium.png?hash=87739565f4d148b28a375f0038f7edeb",
+      "name": "Айс Матча-Латте",
+      "title": "Матча чай, кокосовое молоко, кокосовый сироп, взбитые сливки Матча чай.",
+      "price": "290 сом",
+      "id": 52
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Bezalkogolnyie_kokteili/Ais_Ti_Smorodina_s_miatoi/Medium.png?hash=65f5141c8940c278f85ec935e1441d1d",
+      "name": "Айс-Ти с мятой",
+      "title": "Чай зеленый, сироп смотродины, сахарный и лимонный сироп, мята, ягоды смородины.",
+      "price": "130 сом",
+      "id": 53
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v46/Bezalkogolnyie_kokteili/Vanilnyii/Medium.png?hash=eded358b1181ee73df82f84d45f70876",
+      "name": "Ванильный",
+      "title": "Мороженое, сахарный сироп, кокосовое молоко, молоко, взбитые сливки.",
+      "price": "160 сом",
+      "id": 54
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v46/Bezalkogolnyie_kokteili/Limonad_Malinas/Medium.png?hash=70f2cd69395d7384dd3680bff34161b1",
+      "name": "Лимонад Малинос",
+      "title": "Ананасовый сок, Спрайт, мята, ягоды малины, ананас, сироп малина.",
+      "price": "120 сом",
+      "id": 55
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Bezalkogolnyie_kokteili/Limonad_Vkus_Detstva/Medium.png?hash=7e816423474cc140bb72ef63c897e46b",
+      "name": "Лимонад Вкус Дества",
+      "title": "Сиропы Блю Курасао и Бубль-Гум, мята, лайм, сахарный и лимонный сироп спрайт и мин.вода",
+      "price": "110 сом",
+      "id": 56
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v46/Bezalkogolnyie_kokteili/Klubnichnyii_kadillak/Medium.png?hash=8187fe6ec0735109221a3d777cc26de7",
+      "name": "Клубничный Кадиллак",
+      "title": "Мороженое, клубника, сироп Клубника, молоко, кокосовое молоко, взбитые сливки.",
+      "price": "200 сом",
+      "id": 57
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v46/Bezalkogolnyie_kokteili/Vanilnyii/Medium.png?hash=eded358b1181ee73df82f84d45f70876",
+      "name": "Ванильный",
+      "title": "Мороженое, сахарный сироп, кокосовое молоко, молоко, взбитые сливки.",
+      "price": "160 сом",
+      "id": 58
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v46/Bezalkogolnyie_kokteili/Limonad_Malinas/Medium.png?hash=70f2cd69395d7384dd3680bff34161b1",
+      "name": "Лимонад Малинос",
+      "title": "Ананасовый сок, Спрайт, мята, ягоды малины, ананас, сироп малина.",
+      "price": "120 сом",
+      "id": 59
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Bezalkogolnyie_kokteili/Limonad_Vkus_Detstva/Medium.png?hash=7e816423474cc140bb72ef63c897e46b",
+      "name": "Лимонад Вкус Дества",
+      "title": "Сиропы Блю Курасао и Бубль-Гум, мята, лайм, сахарный и лимонный сироп спрайт и мин.вода",
+      "price": "110 сом",
+      "id": 60
+    },
+    {
+      "category": "Напитки",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v46/Bezalkogolnyie_kokteili/Klubnichnyii_kadillak/Medium.png?hash=8187fe6ec0735109221a3d777cc26de7",
+      "name": "Клубничный Кадиллак",
+      "title": "Мороженое, клубника, сироп Клубника, молоко, кокосовое молоко, взбитые сливки.",
+      "price": "200 сом",
+      "id": 61
+    },
+    {
+      "category": "Сеты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v29/Setyi/Set_Atami/Medium.png?hash=a5f4cffc4bc750d627a3f74628ef53ab",
+      "name": "Сет-Атами",
+      "title": "Сет-Атами 660 гр. Роллы: Калифорния, Тсурай, Хот-чиз, огурец",
+      "price": "820 сом",
+      "id": 62
+    },
+    {
+      "category": "Сеты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Setyi/Set_Grand/Medium.png?hash=910662d016a6247a2599c11d4ada97fc",
+      "name": "Сет-Гранд",
+      "title": "Роллы: Комбу, Гома, Чикен, Касуми, Гома, Овощной, Роллы: Калифорния.",
+      "price": "700 сом",
+      "id": 63
+    },
+    {
+      "category": "Сеты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Setyi/Set_Gurme/Medium.png?hash=108afe7960f458c39ee7784d7f516c7d",
+      "name": "Сет-Гурмэ",
+      "title": "Роллы: Огурец, Чикен, Касуми, Роллы: Калифорния, Гома, Чикен, Сумоку чикен.",
+      "price": "750 сом",
+      "id": 64
+    },
+    {
+      "category": "Сеты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v10/Setyi/Set_Ikagemi/Medium.png?hash=264d16bc1c9c69e86d3c24b321036f19",
+      "name": "Сет-Икагеми",
+      "title": "Сет-Икагёми 600 гр. Роллы: Торри терияки, Комбу, Кавасаки, Каджи ёми",
+      "price": "760 сом",
+      "id": 65
+    },
+    {
+      "category": "Сеты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Setyi/Set_Kunsei/Medium.png?hash=e9d1a299b6341c2bdd4a9a6d37cbc494",
+      "name": "Сет-Кунсей",
+      "title": "Сет-Кунсей 480 гр. Роллы: Хотару, Аляска, Кавасаки, Лосось копченный.",
+      "price": "900 сом",
+      "id": 66
+    },
+    {
+      "category": "Сеты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v40/Setyi/Set_Okinava/Medium.png?hash=3fd189625c77eff0fe47ec0b8bd00365",
+      "name": "Сет-Окинава",
+      "title": "Роллы: Римский, Роллы: Торри терияки, Хотару, Комбу, Калифорния, Гома.",
+      "price": "830 сом",
+      "id": 67
+    },
+    {
+      "category": "Сеты",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v29/Setyi/Set_Fudzi_Iama/Medium.png?hash=fbff75719e5e35aa435f28124fe2678a",
+      "name": "Сет Фудзи-Яма",
+      "title": "Сет Фудзи Яма 780 гр. Роллы: Хотте кани, Комбу, Хот чиз, Юмико, Яки нори.",
+      "price": "1250 сом",
+      "id": 68
+    },
+    {
+      "category": "Сеты",
+      "name": "Сет-Оригами",
+      "title": "Сет Оригами 555 гр. Роллы: Цезарь, Филадельфия премиум, Касуми.",
+      "price": "980 сом",
+      "image": "https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v29/Setyi/Set_Origami/Medium.png?hash=fadb0355e5a8d8f185c41705c1140e02",
+      "id": 69
     }
   ]
 }

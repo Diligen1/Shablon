@@ -78,22 +78,24 @@ export function MenuPage() {
       >
         <div className={style.block_3}>
           {categories.map((category, index) => (
-            <motion.p
-              key={index}
-              className={style.text}
-              whileHover={{
-                scale: 1.1,
-              }}
-              whileTap={{ scale: 0.95 }}
-              onClick={() => handleCategoryClick(category.category)}
-            >
-              <img
-                src={categoryImage[index]}
-                className={style.logo_name}
-                alt=""
-              />
-              {category.category}
-            </motion.p>
+            <div className={style.blocker}>
+              <motion.p
+                key={index}
+                className={style.text}
+                whileHover={{
+                  scale: 1.1,
+                }}
+                whileTap={{ scale: 0.95 }}
+                onClick={() => handleCategoryClick(category.category)}
+              >
+                <img
+                  src={categoryImage[index]}
+                  className={style.logo_name}
+                  alt=""
+                />
+                {category.category}
+              </motion.p>
+            </div>
           ))}
         </div>
       </motion.div>

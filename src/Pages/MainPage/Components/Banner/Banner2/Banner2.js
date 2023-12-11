@@ -2,8 +2,8 @@ import style from "./Banner.module.css";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import image from "../../../../Image/бургер.png";
-export function Banner() {
+import image from "../../../../../Image/Banner2.png";
+export function Banner2() {
   const [isHovered, setIsHovered] = useState(false);
   const navigate = useNavigate();
   function handleMenu() {
