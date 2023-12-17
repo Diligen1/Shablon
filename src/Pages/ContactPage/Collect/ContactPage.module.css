@@ -1,7 +1,6 @@
 .block {
   width: 100%;
   height: auto;
-  padding-top: 20px;
 }
 .pagination {
   background-color: #fe724c;
@@ -9,5 +8,4 @@
   width: 160px;
   height: 5px;
   margin: 0 5px;
-  transition: 0.4s;
 }

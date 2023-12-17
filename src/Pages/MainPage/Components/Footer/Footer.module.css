@@ -1,0 +1,19 @@
+.block {
+  width: 100%;
+  height: 200px;
+  background-color: #254f4c;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.block_2 {
+  width: 40%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+  cursor: default;
+}

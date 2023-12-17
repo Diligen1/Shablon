@@ -1,22 +1,22 @@
-import style from "./MainPage.module.css";
-import { Header } from "../Components/Header/Header";
-import { Banner } from "../Components/Banner/Banner/Banner";
-import { Banner2 } from "../Components/Banner/Banner2/Banner2";
-import { Banner3 } from "../Components/Banner/Banner3/Banner3";
-import { NewProduct } from "../Components/NewProduct/NewProduct";
-import { Footer } from "../Components/Footer/Footer";
-import { Menu } from "../Components/Menu/Menu";
+import { Banner } from "../../MainPage/Components/Banner/Banner/Banner";
+import { Banner2 } from "../../MainPage/Components/Banner/Banner2/Banner2";
+import { Banner3 } from "../../MainPage/Components/Banner/Banner3/Banner3";
+import { Columns } from "../Components/columns/columns";
+import { Header } from "../../MainPage/Components/Header/Header";
+import { Contacts } from "../Components/contacts/contacts";
+import style from "./ContactPage.module.css";
 import { Navigation, Pagination, A11y } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { Footer } from "../../MainPage/Components/Footer/Footer";
 
-export function MainPage() {
-  const banners = [<Banner />, <Banner2 />, <Banner3 />];
+export function ContactPage() {
+  const banners = [, <Banner2 />, <Banner3 />, <Banner />];
 
   return (
-    <main>
+    <div>
       <Header />
       <Swiper
         className={style.block}
@@ -35,9 +35,9 @@ export function MainPage() {
         ))}
       </Swiper>
 
-      <NewProduct />
-      <Menu />
+      <Columns />
+      <Contacts />
       <Footer />
-    </main>
+    </div>
   );
 }

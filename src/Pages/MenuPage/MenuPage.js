@@ -2,6 +2,7 @@ import { motion, useAnimation } from "framer-motion";
 import style from "./MenuPage.module.css";
 import { Header } from "../MainPage/Components/Header/Header";
 import { useState, useEffect } from "react";
+import { Footer } from "../MainPage/Components/Footer/Footer";
 export function MenuPage() {
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [visibleProducts, setVisibleProducts] = useState(16);
@@ -185,6 +186,7 @@ export function MenuPage() {
           ПОКАЗАТЬ ЕЩЕ
         </motion.button>
       </div>
+      <Footer />
     </div>
   );
 }
