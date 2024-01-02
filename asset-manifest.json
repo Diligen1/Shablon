@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shablon/static/css/main.3e8a23f9.css",
+    "main.js": "/Shablon/static/js/main.25fbe651.js",
+    "static/js/787.a8bf62ae.chunk.js": "/Shablon/static/js/787.a8bf62ae.chunk.js",
+    "static/media/banner3.png": "/Shablon/static/media/banner3.14e8c82ff3c0cae99974.png",
+    "static/media/Banner2.png": "/Shablon/static/media/Banner2.f0228124c0caceecfe63.png",
+    "static/media/бургер.png": "/Shablon/static/media/бургер.80023e3bc312cf6bf908.png",
+    "static/media/pizza.png": "/Shablon/static/media/pizza.3e5fe982a2de420323f4.png",
+    "static/media/Десерты.png": "/Shablon/static/media/Десерты.47d2000b05fa0a5d6ba2.png",
+    "static/media/Сеты.png": "/Shablon/static/media/Сеты.15439b50c6d3bb0916e1.png",
+    "static/media/Салаты.png": "/Shablon/static/media/Салаты.2eb5fa6ce7af80063472.png",
+    "static/media/Роллы.png": "/Shablon/static/media/Роллы.9190e3a39f077e83ed17.png",
+    "static/media/Блюда.png": "/Shablon/static/media/Блюда.c410bbc287d48d439eed.png",
+    "static/media/Напитки.png": "/Shablon/static/media/Напитки.6629a5d5585920333995.png",
+    "index.html": "/Shablon/index.html",
+    "main.3e8a23f9.css.map": "/Shablon/static/css/main.3e8a23f9.css.map",
+    "main.25fbe651.js.map": "/Shablon/static/js/main.25fbe651.js.map",
+    "787.a8bf62ae.chunk.js.map": "/Shablon/static/js/787.a8bf62ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e8a23f9.css",
+    "static/js/main.25fbe651.js"
+  ]
+}
